@@ -1,0 +1,52 @@
+#main{
+    text-align: center;/*文本水平居中*/
+    background-color: #ccffff;
+    height: 320px;
+    width: 600px;
+    border: white 7px dashed;
+    margin: -160px -300px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+}
+
+#main div{
+    vertical-align: middle;/*文本垂直居中*/
+}
+
+#middle{
+    background-color: #ffcccc;
+    height: 100px;
+    width: 300px;
+    border-radius: 20px;
+    display: table-cell;
+    position: relative;
+    left: 50%;
+}
+
+#Three{
+    display: table-row;
+}
+
+#left{
+    background-color: #ffffcc;
+    height: 80px;
+    width: 220px;
+    border-radius: 20px;
+    display: table-cell;
+}
+
+#right{
+    background-color: #ffffcc;
+    height: 80px;
+    width: 220px;
+    border-radius: 20px;
+    display: table-cell;
+}
+
+#emmmm{
+    font-weight: bolder;
+    font-family: "楷体";
+    width: 180px;
+    display: table-cell;
+}

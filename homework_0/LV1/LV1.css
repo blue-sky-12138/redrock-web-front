@@ -1,0 +1,50 @@
+*{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#block{
+    background-color: #66CCFF;
+    height: 140px;
+    width: 140px;
+}
+
+#LangLi{
+    background: #66CCFF;
+    color:white;
+}
+
+ul{
+    border-bottom: 1px dashed black;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+}
+
+ul li{
+    list-style-image: url(img/webp.jpg);
+}
+
+ol{
+    margin-bottom: 1em;
+}
+
+#DiXian{
+    font-size: 2em;
+}
+
+
+a:link{
+    color: blue;
+}
+a:visited{
+    color: #333333;
+}
+#DuNiang span:hover{
+    color:#f88396;
+}
+
+#text{
+    height: 1.2em;
+    width: 300px;
+    margin-right: 5px;
+}
